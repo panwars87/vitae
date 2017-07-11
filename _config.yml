@@ -13,13 +13,13 @@ author: Shashant Panwar
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /vitae
+baseurl: /vitae/
 title: Shashant Panwar's Resume
 name: Shashant Panwar
 email: shashant@panwars.com
 email_full: mailto:shashant@panwars.com
 website: github.io/panwars87
-website_full: https://panwars87.github.io/home
+website_full: https://panwars87.github.io/profile/
 github: trending
 twitter: twitter
 #tel: +1-2485589657
